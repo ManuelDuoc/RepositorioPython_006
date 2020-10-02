@@ -1,4 +1,4 @@
-#crear ciclo for que permita ingresar 10 numeros 
+#crear ciclo for que permita ingresar 10 numeros 1
 par=0
 impar=0
 for i in range(10):
